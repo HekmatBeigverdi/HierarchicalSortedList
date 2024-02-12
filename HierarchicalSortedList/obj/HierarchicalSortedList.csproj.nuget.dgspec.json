@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "/Users/hekmat/Desktop/WORKS/Github/HierarchicalSortedList/HierarchicalSortedList/HierarchicalSortedList.csproj": {}
+    "C:\\Users\\Hekmat\\Desktop\\Works\\Github\\HierarchicalSortedList\\HierarchicalSortedList\\HierarchicalSortedList.csproj": {}
   },
   "projects": {
-    "/Users/hekmat/Desktop/WORKS/Github/HierarchicalSortedList/HierarchicalSortedList/HierarchicalSortedList.csproj": {
+    "C:\\Users\\Hekmat\\Desktop\\Works\\Github\\HierarchicalSortedList\\HierarchicalSortedList\\HierarchicalSortedList.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/hekmat/Desktop/WORKS/Github/HierarchicalSortedList/HierarchicalSortedList/HierarchicalSortedList.csproj",
+        "projectUniqueName": "C:\\Users\\Hekmat\\Desktop\\Works\\Github\\HierarchicalSortedList\\HierarchicalSortedList\\HierarchicalSortedList.csproj",
         "projectName": "HierarchicalSortedList",
-        "projectPath": "/Users/hekmat/Desktop/WORKS/Github/HierarchicalSortedList/HierarchicalSortedList/HierarchicalSortedList.csproj",
-        "packagesPath": "/Users/hekmat/.nuget/packages/",
-        "outputPath": "/Users/hekmat/Desktop/WORKS/Github/HierarchicalSortedList/HierarchicalSortedList/obj/",
+        "projectPath": "C:\\Users\\Hekmat\\Desktop\\Works\\Github\\HierarchicalSortedList\\HierarchicalSortedList\\HierarchicalSortedList.csproj",
+        "packagesPath": "C:\\Users\\Hekmat\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Hekmat\\Desktop\\Works\\Github\\HierarchicalSortedList\\HierarchicalSortedList\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "/Users/hekmat/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Hekmat\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -69,7 +69,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.400/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
